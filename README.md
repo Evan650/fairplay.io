@@ -1,2 +1,2 @@
 # bitstream.io
-Website for Bitstream
+Landing page for Bitstream.
