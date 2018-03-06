@@ -12,12 +12,12 @@ body {
   font-family: 'Muli', 'Helvetica', 'Arial', 'sans-serif'; }
 
 a {
-  color: #795663;
+  color: #667eea;
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s; }
   a:hover, a:focus {
-    color: #795663; }
+    color: #667eea; }
 
 hr {
   max-width: 100px;
@@ -58,7 +58,7 @@ section {
   font-weight: 200;
   letter-spacing: 1px; }
   #mainNav .navbar-brand {
-    color: #795663;
+    color: #667eea;
     font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
     font-weight: 200;
     letter-spacing: 1px; }
@@ -196,8 +196,8 @@ section.features .feature-item {
     font-size: 80px;
     display: block;
     margin-bottom: 15px;
-    background: -webkit-linear-gradient(to left, #89f7fe, #66a6ff);
-    background: linear-gradient(to left, #89f7fe, #66a6ff);
+    background: -webkit-linear-gradient(to left, #667eea, #764ba2);
+    background: linear-gradient(to left, #667eea, #764ba2);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
 
@@ -279,7 +279,7 @@ footer {
 .bg-primary {
   background: #fdcc52;
   background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#8B8BAE, #8B8BAE); }
+  background: linear-gradient(#667eea, #667eea); }
 
 .text-primary {
   color: #fdcc52; }
@@ -294,8 +294,8 @@ footer {
   border-color: white; }
   .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
     color: white;
-    border-color: #795663;
-    background-color: #795663; }
+    border-color: #667eea;
+    background-color: #667eea; }
 
 .btn {
   border-radius: 300px;
